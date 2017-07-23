@@ -102,51 +102,49 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 **Note**: Final screens below
 
-### Image 6
+#### Images 6 to 11
 
-The default screen. The app opens up with sector 1 view with the race line-up.  Similar screens for sector 2 and sector 3 with different camera feeds. The leader board on the bottom auto-rotates to show the next 3 drivers every few seconds.
+<img src="assets/Image 6.png" width="30%" /> <img src="assets/Image 7.png" width="30%" /> <img src="assets/Image 8.png" width="30%" />
 
-<img src="assets/Image 6.png" width="30%">
+<img src="assets/Image 9.png" width="30%" /> <img src="assets/Image 10.png" width="30%" /> <img src="assets/Image 11.png" width="30%" />
 
-### Image 7
 
-Swipe up on the sector view to see the complete leader board. Within the half screen layover area with content, scroll up or down to check the complete list.
-
-<img src="assets/Image 7.png" width="30%">
-
-### Image 8
-
-Fastest lap details. Fades out within a few seconds
-
-<img src="assets/Image 8.png" width="30%">
-
-### Image 9
-
-On-board camera feed of the chosen driver.
-
-<img src="assets/Image 9.png" width="30%">
-
-### Image 10
-
-Swipe up the onboard view to view more details about the particular driver. The sec 1, sec 2, and sec 3 columns represent the sector on sector time gain/ lost between the current driver and ones adjacent to him.
-
-<img src="assets/Image 10.png" width="30%">
-
-### Image 11
-
-Click on the ‘Select driver’ on onboard detail view to view the driver’s onboard cam feed. Within the half screen layover area with content, scroll up or down to check the complete list.
-
-<img src="assets/Image 11.png" width="30%">
-       
-
-**Elements on the screens**:
+#### Elements on the screens:
 
 Most of the elements used in the designs are self-explanatory and easy to comprehend to any formula E fan. The only different notation we have used is to represent battery percentage in a visually appealing manner.
 
-Both these icons denote battery % left in the car. A driver has to change 2 cars during the race and hence we’ve used the two cars to denote the same in the detailed view
+Both these icons denote battery % left in the car. A driver has to change 2 cars during the race and hence we’ve used the two cars to denote the same in the detailed view.
+
+**Image 6**
+
+The default screen. The app opens up with sector 1 view with the race line-up.  Similar screens for sector 2 and sector 3 with different camera feeds. The leader board on the bottom auto-rotates to show the next 3 drivers every few seconds.
+
+**Image 7**
+
+Swipe up on the sector view to see the complete leader board. Within the half screen layover area with content, scroll up or down to check the complete list.
+
+
+**Image 8**
+
+Fastest lap details. Fades out within a few seconds
+
+
+**Image 9**
+
+On-board camera feed of the chosen driver.
+
+
+**Image 10**
+
+Swipe up the onboard view to view more details about the particular driver. The sec 1, sec 2, and sec 3 columns represent the sector on sector time gain/ lost between the current driver and ones adjacent to him.
+
+
+**Image 11**
+
+Click on the ‘Select driver’ on onboard detail view to view the driver’s onboard cam feed. Within the half screen layover area with content, scroll up or down to check the complete list.
 
  
-**Navigations**:
+#### Navigations:
 
 Keeping in mind the user’s involvement in the race and multiple uses of the smartphone, we’ve designed simple navigation gestures throughout the app. All the interactions in the app are illustrated here.
 
