@@ -63,7 +63,10 @@ Besides, vertical full screen video is highly engaging, and its adoption is expo
 - Vertical video compares to a 9x completion rate compared to horizontal videos 
 - 29% of videos on smartphone today are vertical videos vs 5% back in 2012
 
-Designing the app in the natural smartphone usage orientation could be significant in retaining and engaging the users in the app. The ability to hold the phone with one hand is another significant advantage we see with a race goer. 
+Designing the app in the natural smartphone usage orientation could be significant in retaining and engaging the users in the app. The ability to hold the phone with one hand is another significant advantage we see with a race goer.
+
+<p></p>
+
 
 **Direct views**:
 
@@ -73,6 +76,8 @@ Providing a consolidated view (where a user has a choice of 4 feeds on a screen)
 
 - With direct view, 4 video feeds – view it in 4 steps
 - With a consolidated view, 4 video feeds – view it in minimum of 8 steps
+
+<p></p>
 
 **Swipe and scroll**:
 
@@ -107,12 +112,15 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 <img src="assets/Image 1.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 2.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 3.jpg" width="30%" style="margin-right: 25px;" />
 
+<p></p>
+
 
 **Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by [images 6 to 11](#images-6-to-11).
 
 
 <img src="assets/Image 4.jpeg" width="50%" style="margin-right: 25px;" /> <img src="assets/Image 5.jpeg" width="30%" style="margin-right: 25px;" />
-                   
+
+<p></p>
 
 **Note**: Final screens below
 
