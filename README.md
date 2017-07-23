@@ -100,7 +100,7 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 <img src="assets/Image 1.png" width="30%" /> <img src="assets/Image 2.png" width="30%" /> <img src="assets/Image 3.jpg" width="30%" />
 
 
-**Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by images 6 – 11.
+**Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by [images 6 to 11](#images-6-to-11).
 
 
 <img src="assets/Image 4.jpeg" width="30%" /> <img src="assets/Image 5.jpeg" width="30%" />
@@ -155,7 +155,7 @@ Click on the ‘Select driver’ on onboard detail view to view the driver’s o
 Keeping in mind the user’s involvement in the race and multiple uses of the smartphone, we’ve designed simple navigation gestures throughout the app. All the interactions in the app are illustrated here.
 
 
-![switch](assets/switch.gif) ![sector](assets/sector.gif) ![onboard](assets/onboard.gif)
+![switch](assets/swich.gif) ![sector](assets/sector.gif) ![onboard](assets/onswich.gif)
 
 **Comments**
 
