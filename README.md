@@ -9,7 +9,7 @@
 
 Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands. 
 
-Demo Video URL: < insert link here> (add a line for GitHub repo link, another for direct link to APK file) – at 8PM
+Demo Video URL: *insert link here*
 
 ---
 
@@ -20,6 +20,8 @@ Demo Video URL: < insert link here> (add a line for GitHub repo link, another fo
     - [UX](#user-experience)
     - [Race footage](#race-footage)
     - [UI](#user-interface)
+        - [UI: Images](#images)
+        - [UI: Navigation](#navigations)
 - [Our plan for the finals](#our-plan-for-the-finals)
 - [Tech Stack](#tech-stack)
 - [Interfacing the network with the app](#interfacing-the-network-with-the-app)
@@ -76,11 +78,15 @@ Keeping in mind the amount of events happening on the race track, we’ve stuck 
 **Up/ down swipe** – to pull up more content about the live race
 **Scroll** – to see even more content
 
+---
+
 ### Race footage
 
 We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image on the right shows the race track divided into 3 sectors namely sector 1, sector 2 and sector 3. For the footage, we’ve taken the full video of the Monaco eprix 2017 from Youtube and edited to purpose with 2 things in mind – to remove most on-screen displays and to create an engaging 2 mins footage for every feed. 
 
--> Click here to view the footages
+**Click here to view the footages**
+
+---
 
 
 ### User Interface
@@ -88,8 +94,6 @@ We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image on
 We have designed a very sporty and racey UI for the app and have improved the designs with every iteration having put a lot of thought to the color schemes, shapes, text overlays, representation of key elements on the screen among others. 
 
 We started with simple wireframes that you see on image 1 and designed its UI (image 2, 3) with image 3 as the final UI for the first round.
-
-
 
 ### Images
 
@@ -146,34 +150,26 @@ Swipe up the onboard view to view more details about the particular driver. The 
 Click on the ‘Select driver’ on onboard detail view to view the driver’s onboard cam feed. Within the half screen layover area with content, scroll up or down to check the complete list.
 
  
-#### Navigations:
+### Navigations:
 
 Keeping in mind the user’s involvement in the race and multiple uses of the smartphone, we’ve designed simple navigation gestures throughout the app. All the interactions in the app are illustrated here.
 
-![switch](assets/switch.gif)
 
-Comment: Navigating between multiple sector/ on-board cam views
+![switch](assets/switch.gif) ![sector](assets/sector.gif) ![onboard](assets/onboard.gif)
 
-![sector](assets/sector.gif)
+*Left*: Navigating between multiple sector/ on-board cam views.
 
-Comment: Swipe up the sector screens to see the full leader board
+*Center*: Swipe up the sector screens to see the full leader board
 
-![onboard](assets/onboard.gif)
+*Right*: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module. 
 
-Comment: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module. 
+![leader](assets/leader.gif) ![fan](assets/fan.gif) ![teamradio](assets/teamradio.gif)
 
-![leader](assets/sector.gif)
+*Left*: The position switch animation on the leader board screen. Note that for this prototype submission we have not implemented the leader board animation module.
 
-Comment: The position switch animation on the leader board screen. Note that for this prototype submission we have not implemented the leader board animation module.
+*Center*: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
 
-![fan](assets/switch.gif)
-
-Comment: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
-
-
-![teamradio](assets/teamradio.gif)
-
-Comment: The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
+*Right*: The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
 
 
 ## Our plan for the finals
