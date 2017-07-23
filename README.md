@@ -82,24 +82,24 @@ We have designed a very sporty and racey UI for the app and have improved the de
 
 We started with simple wireframes that you see on image 1 and designed its UI (image 2, 3) with image 3 as the final UI for round 1.
 
-[Image1]
-[Image2]
-[Image3]
+![Image1](assets/Image\ 1.png)
+![Image2](assets/Image\ 2.png)
+![Image3](assets/Image\ 3.png)
 
 On getting selected for round 2, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by images 6 – 11.
 
-[Image4]
-[Image5]
+![Image4](assets/Image\ 4.png)
+![Image5](assets/Image\ 5.png)
                    
 
 Final screens:
 
-[Image6]
-[Image7]
-[Image8]
-[Image9]
-[Image10]
-[Image11]
+![Image6](assets/Image\ 6.png)
+![Image7](assets/Image\ 7.png)
+![Image8](assets/Image\ 8.png)
+![Image9](assets/Image\ 9.png)
+![Image10](assets/Image\ 10.png)
+![Image11](assets/Image\ 11.png)
        
 
 **Elements on the screens**:
@@ -126,23 +126,29 @@ Image 11 (change driver) – Click on the ‘Select driver’ on onboard detail 
 
 Keeping in mind the user’s involvement in the race and multiple uses of the smartphone, we’ve designed simple navigation gestures throughout the app. All the interactions in the app are illustrated here.
 
-<Insert switch.gif>
+![switch](assets/switch.gif)
+
 Comment: Navigating between multiple sector/ on-board cam views
 
-<Insert sector.gif>
+![sector](assets/sector.gif)
+
 Comment: Swipe up the sector screens to see the full leader board
 
-<Insert onboard.gif> (not in the drive yet, use place holder)
+![onboard](assets/onboard.gif)
+
 Comment: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module. 
 
-<Insert leader.gif>
+![leader](assets/sector.gif)
+
 Comment: The position switch animation on the leader board screen. Note that for this prototype submission we have not implemented the leader board animation module.
 
-<Insert fan.gif>
+![fan](assets/switch.gif)
+
 Comment: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
 
 
-<Insert teamradio.gif>
+![teamradio](assets/teamradio.gif)
+
 Comment: The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
 
 
@@ -166,7 +172,7 @@ Implement driver cam switch, team radio, leader board animation
 
 ---
 
-## Tech Stack <will be filled at 8 PM IST, working on this>
+## Tech Stack
 
 --
 
