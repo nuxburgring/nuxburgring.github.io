@@ -225,6 +225,8 @@ Implement driver cam switch, team radio, leader board animation
 
 ## Tech Stack
 
+<small>[Go to top.](#topics)</small>
+
 ---
 
 ## Interfacing the network with the app
