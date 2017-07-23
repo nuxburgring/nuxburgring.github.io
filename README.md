@@ -110,9 +110,15 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 **Note**: Final screens below
 
-#### Images 6 to 11
+#### Images 6 to 8
+
+*(From left to right)*
 
 <img src="assets/Image 6.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 7.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 8.png" width="30%" style="margin-right: 25px;" />
+
+#### Images 9 to 11
+
+*(From left to right)*
 
 <img src="assets/Image 9.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 10.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 11.png" width="30%" style="margin-right: 25px;" />
 
