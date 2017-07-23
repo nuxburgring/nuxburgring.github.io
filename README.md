@@ -9,7 +9,7 @@
 
 Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands. 
 
---
+---
 
 ## Demo Video URL: *insert link here*
 
@@ -86,7 +86,7 @@ Keeping in mind the amount of events happening on the race track, we’ve stuck 
 
 We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image on the right shows the race track divided into 3 sectors namely sector 1, sector 2 and sector 3. For the footage, we’ve taken the full video of the Monaco eprix 2017 from Youtube and edited to purpose with 2 things in mind – to remove most on-screen displays and to create an engaging 2 mins footage for every feed. 
 
-**Click here to view the footages**
+[**Click here to view the footages**](https://drive.google.com/drive/folders/0B2o0eni3ZjlROVFTWU1CZngxTFk)
 
 ---
 
