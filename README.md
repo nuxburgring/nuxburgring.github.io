@@ -2,7 +2,7 @@
 
 ## Team Name: nUXburgring
 ## Participating theme: UI/ UX challenge 2 – second screen viewing
-g
+
 
 Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands. 
 
@@ -12,9 +12,9 @@ This document talks about the following topics:
 
 - Introduction + understanding of the problem
 - Designing the app
-- UX
-- Race footage
-- UI
+    - UX
+    - Race footage
+    - UI
 - Our plan for the finals
 - Tech Stack
 - Interfacing the network with the app
@@ -145,7 +145,8 @@ Comment: The fan boost icon animates on the screen when a driver activates it. N
 <Insert teamradio.gif>
 Comment: The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
 
-### Our plan for the finals
+
+## Our plan for the finals
 
 For the scope of the prototype app, we have designed and developed the above mentioned screens/ features in the span of the 2 weeks provided. But as we’ve been so invested into the problem statement, we have come up with a bunch of things we plan to implement for the finals, if we selected for it.
 
