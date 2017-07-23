@@ -43,6 +43,8 @@ With a Formula E circuit just short of 2 kms in size, a fan in the stands is bou
 
 Another challenge with designing a smartphone app is to consider the smartphone as a multi-function device. The user is bound to get notifications, open up and switch between other apps. It is very important to think about the preferred phone orientation for a live stream content.
 
+<small>[Go to top](#topics)</small>
+
 ---
 
 ## Designing the app
@@ -165,7 +167,7 @@ Click on the ‘Select driver’ on onboard detail view to view the driver’s o
 Keeping in mind the user’s involvement in the race and multiple uses of the smartphone, we’ve designed simple navigation gestures throughout the app. All the interactions in the app are illustrated here.
 
 
-![switch](assets/swich.gif) ![sector](assets/sector.gif) ![onboard](assets/onswich.gif)
+<img src="assets/swich.gif" style="margin-right: 25px;" /> <img src="assets/sector.gif" style="margin-right: 25px;" /> <img src="assets/onswich.gif" style="margin-right: 25px;" />
 
 **Comments**
 
@@ -175,7 +177,7 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 *Right*: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module. 
 
-![leader](assets/leader.gif) ![fan](assets/fan.gif)
+<img src="assets/leader.gif" style="margin-right: 25px;" />  <img src="assets/fan.gif" style="margin-right: 25px;" /> 
 
 **Comments**
 
