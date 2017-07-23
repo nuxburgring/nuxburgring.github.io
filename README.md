@@ -249,14 +249,12 @@ Implement driver cam switch, team radio, leader board animation
 
 ## Tech Stack
 
-<br/>
 
 **Operating System**:
 
 - Android
 - Minimum API level: 22  (Lollipop) (Supported from API level 17, Api level >22 is preferable)
 
-<br/>
 
 **Tools**:
 
@@ -265,7 +263,6 @@ Implement driver cam switch, team radio, leader board animation
 - Data binding : Butter Knife & Android Data Binding 
 - Architecture framework: ReactiveX
 
-<br/>
 
 **Libraries**:
 
@@ -277,7 +274,6 @@ Implement driver cam switch, team radio, leader board animation
 - Google Play Services
 - Google Support Library
 
-<br/>
 
 **Layouts**:
 
@@ -287,7 +283,6 @@ Implement driver cam switch, team radio, leader board animation
 - PercentRelativeLayout
 - PercentFrameLayout
 
-<br/>
 
 <small>[Go to top.](#topics)</small>
 
