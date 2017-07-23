@@ -121,7 +121,7 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 Most of the elements used in the designs are self-explanatory and easy to comprehend to any formula E fan. The only different notation we have used is to represent battery percentage in a visually appealing manner.
 
-<img src="assets/Car icon.png" style="margin-right: 15px;" /> <img src="assets/battery icon.png" style="margin-right: 15px;" />
+<img src="assets/Car icon.png" style="margin-right: 25px;" /> <img src="assets/battery icon.png" style="margin-right: 25px;" />
 
 Both these icons denote battery % left in the car. A driver has to change 2 cars during the race and hence we’ve used the two cars to denote the same in the detailed view.
 
