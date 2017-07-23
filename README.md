@@ -9,7 +9,9 @@
 
 Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands. 
 
-Demo Video URL: *insert link here*
+--
+
+## Demo Video URL: *insert link here*
 
 ---
 
@@ -74,9 +76,9 @@ Providing a consolidated view (where a user has a choice of 4 feeds on a screen)
 
 Keeping in mind the amount of events happening on the race track, we’ve stuck to the basic swipe and scroll interactions within the app.
 
-**Left/ right swipe** – to go to next/ prev video feed
-**Up/ down swipe** – to pull up more content about the live race
-**Scroll** – to see even more content
+- **Left/ right swipe** – to go to next/ prev video feed
+- **Up/ down swipe** – to pull up more content about the live race
+- **Scroll** – to see even more content
 
 ---
 
