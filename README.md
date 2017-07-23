@@ -43,7 +43,7 @@ With a Formula E circuit just short of 2 kms in size, a fan in the stands is bou
 
 Another challenge with designing a smartphone app is to consider the smartphone as a multi-function device. The user is bound to get notifications, open up and switch between other apps. It is very important to think about the preferred phone orientation for a live stream content.
 
-<small>[Go to top](#topics)</small>
+<small>[Go to top.](#topics)</small>
 
 ---
 
@@ -82,6 +82,8 @@ Keeping in mind the amount of events happening on the race track, we’ve stuck 
 - **Up/ down swipe** – to pull up more content about the live race
 - **Scroll** – to see even more content
 
+<small>[Go to top.](#topics)</small>
+
 ---
 
 ### Race footage
@@ -89,6 +91,8 @@ Keeping in mind the amount of events happening on the race track, we’ve stuck 
 We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image on the right shows the race track divided into 3 sectors namely sector 1, sector 2 and sector 3. For the footage, we’ve taken the full video of the Monaco eprix 2017 from Youtube and edited to purpose with 2 things in mind – to remove most on-screen displays and to create an engaging 2 mins footage for every feed. 
 
 [**Click here to view the footages**](https://drive.google.com/drive/folders/0B2o0eni3ZjlROVFTWU1CZngxTFk)
+
+<small>[Go to top.](#topics)</small>
 
 ---
 
@@ -161,6 +165,8 @@ Swipe up the onboard view to view more details about the particular driver. The 
 
 Click on the ‘Select driver’ on onboard detail view to view the driver’s onboard cam feed. Within the half screen layover area with content, scroll up or down to check the complete list.
 
+<small>[Go to top.](#topics)</small>
+
  
 ### Navigations:
 
@@ -189,7 +195,9 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 **Comments**
 
-The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
+The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds.
+
+<small>[Go to top.](#topics)</small>
 
 ---
 
@@ -211,6 +219,8 @@ Fan Boost: Cast your fan boost vote right in the app
 
 Implement driver cam switch, team radio, leader board animation
 
+<small>[Go to top.](#topics)</small>
+
 ---
 
 ## Tech Stack
@@ -227,7 +237,9 @@ We will implement APIs from three categories:
 - RTCPeerConnection - enable audio or video data transfer with bandwidth management
 - RTCDataChannel - enables peer-to-peer communication for any generic data
 
-Note: For the scope of this prototype, we have not implemented the network and supporting integrations. For the finals, we can implement a proof of concept. 
+Note: For the scope of this prototype, we have not implemented the network and supporting integrations. For the finals, we can implement a proof of concept.
+
+<small>[Go to top.](#topics)</small>
 
 ---
 
@@ -258,3 +270,6 @@ Prashanth is the founder of StudyOwl & Developer Weekend, a sprawling community 
 **Sudhanshu Passi**
 
 Keeping his tools diverse, Sudhanshu has always focused on making things easily consumable and intuitive. Coming from a computer science background and keeping an interest in visual design helps him get the best of both worlds. These days you can find him making deep learning systems for Cowrks, but for this hackathon is working as a designer.
+
+<small>[Go to top.](#topics)</small>
+
