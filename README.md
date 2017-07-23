@@ -11,11 +11,11 @@ Trackeporter is a prototype android application designed for the round 2 submiss
 
 ## Demo Video
 
-**[Click here for demo video]()**
+<a href="https://youtu.be/2hCA67PkroA" target="_blank"><b>Click here for demo video.</b></a>
 
 ## Android APK
 
-<a href="https://drive.google.com/file/d/0Bz1giHkqY0ZaSmFoZlhkZmpxek0/view?usp=sharing" target="_blank"><b>Click here for Android APK</b></a>
+<a href="https://drive.google.com/file/d/0Bz1giHkqY0ZaSmFoZlhkZmpxek0/view?usp=sharing" target="_blank"><b>Click here for Android APK.</b></a>
 
 ---
 
