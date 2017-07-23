@@ -181,6 +181,8 @@ Click on the ‘Select driver’ on onboard detail view to view the driver’s o
 
 <small>[Go to top.](#topics)</small>
 
+<br/>
+
  
 ### Navigations:
 
@@ -246,6 +248,46 @@ Implement driver cam switch, team radio, leader board animation
 ---
 
 ## Tech Stack
+
+<br/>
+
+**Operating System**:
+
+Android
+Minimum API level: 22  (Lollipop) (Supported from API level 17, Api level >22 is preferable)
+
+<br/>
+
+**Tools**:
+
+Android Studio V 2.3.3 
+Gradle Build System 
+Data binding : Butter Knife & Android Data Binding 
+Architecture framework: ReactiveX
+
+<br/>
+
+**Libraries**:
+
+Android Support Library: (v4:25.3.1+) 
+Android Design Library: (v4:25.3.1+) 
+Android Appcompat Library: (v7:25.3.1+) 
+Android Support Library: (v4:25.3.1+) 
+Apl-devs:appintro:v4.2.0
+Google Play Services
+Google Support Library
+
+<br/>
+
+**Layouts**:
+
+Constraint Layout
+Relativelayout
+Linearlayout
+PercentRelativeLayout
+PercentFrameLayout
+
+<br/>
 
 <small>[Go to top.](#topics)</small>
 
