@@ -128,7 +128,7 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 **Note**: Final screens below
 
-<br/>
+---
 
 #### Images 6 to 8
 
