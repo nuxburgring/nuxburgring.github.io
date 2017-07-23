@@ -57,7 +57,8 @@ Besides, vertical full screen video is highly engaging, and its adoption is expo
 
 Designing the app in the natural smartphone usage orientation could be significant in retaining and engaging the users in the app. The ability to hold the phone with one hand is another significant advantage we see with a race goer. 
 
-Direct views:
+**Direct views**:
+
 The app is designed with a fast and clean look sporting 4 screens (4 feeds) in a circular loop. The race goer is directly taken to the first feed and swipes to see the next or previous feeds.
 
 Providing a consolidated view (where a user has a choice of 4 feeds on a screen) will add to the complexity by having the user to navigate between individual camera feeds and consolidated view. To overcome this, we have designed a direct view with easy navigation. In other words,
@@ -67,16 +68,17 @@ Providing a consolidated view (where a user has a choice of 4 feeds on a screen)
 
 **Swipe and scroll**:
 
-Keeping in mind the amount of events happening on the race track, we’ve stuck to the basic swipe and scroll interactions within the app. 
-Left/ right swipe – to go to next/ prev video feed
-Up/ down swipe – to pull up more content about the live race
- Scroll – to see even more content
+Keeping in mind the amount of events happening on the race track, we’ve stuck to the basic swipe and scroll interactions within the app.
+
+**Left/ right swipe** – to go to next/ prev video feed
+**Up/ down swipe** – to pull up more content about the live race
+**Scroll** – to see even more content
 
 ### Race footage
 
 We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image on the right shows the race track divided into 3 sectors namely sector 1, sector 2 and sector 3. For the footage, we’ve taken the full video of the Monaco eprix 2017 from Youtube and edited to purpose with 2 things in mind – to remove most on-screen displays and to create an engaging 2 mins footage for every feed. 
 
--> Click here for view the footages
+-> Click here to view the footages
 
 
 ### User Interface
@@ -85,15 +87,14 @@ We have designed a very sporty and racey UI for the app and have improved the de
 
 We started with simple wireframes that you see on image 1 and designed its UI (image 2, 3) with image 3 as the final UI for the first round.
 
----
 
-### Image 1
+
+### Images
 
 <img src="assets/Image 1.png" width="30%" /> <img src="assets/Image 2.png" width="30%" /> <img src="assets/Image 3.jpg" width="30%" />
 
 
 **Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by images 6 – 11.
-
 
 
 <img src="assets/Image 4.jpeg" width="30%" /> <img src="assets/Image 5.jpeg" width="30%" />
@@ -105,37 +106,37 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 The default screen. The app opens up with sector 1 view with the race line-up.  Similar screens for sector 2 and sector 3 with different camera feeds. The leader board on the bottom auto-rotates to show the next 3 drivers every few seconds.
 
-<img src="assets/Image 6.png" width="40%">
+<img src="assets/Image 6.png" width="30%">
 
 ### Image 7
 
 Swipe up on the sector view to see the complete leader board. Within the half screen layover area with content, scroll up or down to check the complete list.
 
-<img src="assets/Image 7.png" width="40%">
+<img src="assets/Image 7.png" width="30%">
 
 ### Image 8
 
 Fastest lap details. Fades out within a few seconds
 
-<img src="assets/Image 8.png" width="40%">
+<img src="assets/Image 8.png" width="30%">
 
 ### Image 9
 
 On-board camera feed of the chosen driver.
 
-<img src="assets/Image 9.png" width="40%">
+<img src="assets/Image 9.png" width="30%">
 
 ### Image 10
 
 Swipe up the onboard view to view more details about the particular driver. The sec 1, sec 2, and sec 3 columns represent the sector on sector time gain/ lost between the current driver and ones adjacent to him.
 
-<img src="assets/Image 10.png" width="40%">
+<img src="assets/Image 10.png" width="30%">
 
 ### Image 11
 
 Click on the ‘Select driver’ on onboard detail view to view the driver’s onboard cam feed. Within the half screen layover area with content, scroll up or down to check the complete list.
 
-<img src="assets/Image 11.png" width="40%">
+<img src="assets/Image 11.png" width="30%">
        
 
 **Elements on the screens**:
@@ -197,7 +198,7 @@ Implement driver cam switch, team radio, leader board animation
 
 ## Tech Stack
 
---
+---
 
 ## Interfacing the network with the app
 
