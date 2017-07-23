@@ -157,20 +157,29 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 ![switch](assets/switch.gif) ![sector](assets/sector.gif) ![onboard](assets/onboard.gif)
 
+**Comments**
+
 *Left*: Navigating between multiple sector/ on-board cam views.
 
 *Center*: Swipe up the sector screens to see the full leader board
 
 *Right*: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module. 
 
-![leader](assets/leader.gif) ![fan](assets/fan.gif) ![teamradio](assets/teamradio.gif)
+![leader](assets/leader.gif) ![fan](assets/fan.gif)
+
+**Comments**
 
 *Left*: The position switch animation on the leader board screen. Note that for this prototype submission we have not implemented the leader board animation module.
 
-*Center*: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
+*Right*: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
 
-*Right*: The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
+![teamradio](assets/teamradio.gif)
 
+**Comments**
+
+The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds. 
+
+---
 
 ## Our plan for the finals
 
