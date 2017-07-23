@@ -3,7 +3,6 @@
 ## Team Name: nUXburgring
 ## Participating theme: UI/ UX challenge 2 – second screen viewing
 
----
 
 Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands. 
 
@@ -11,15 +10,15 @@ Demo Video URL: < insert link here> (add a line for GitHub repo link, another fo
 
 This document talks about the following topics:
 
-    - Introduction + understanding of the problem
-    - Designing the app
-    - UX
-    - Race footage
-    - UI
-    - Our plan for the finals
-    - Tech Stack
-    - Interfacing the network with the app
-    - Team Details 
+- Introduction + understanding of the problem
+- Designing the app
+- UX
+- Race footage
+- UI
+- Our plan for the finals
+- Tech Stack
+- Interfacing the network with the app
+- Team Details 
 
 ---
 
@@ -49,9 +48,9 @@ One of the early decisions we’ve made is to move away from the traditional lan
 
 Besides, vertical full screen video is highly engaging, and its adoption is exponentially on the rise. Vertical video is the format of the smartphone, it feels right, it looks right. Snapchat pioneers in it, and both Facebook and Youtube also have extended large support for it. Apart from Snapchat, Meerkat, Line and WeChat have vertical videos as their native format. Here are some other interesting pointers backing the vertical video:
 
-    - Smartphone users hold their phone vertically for about 94% of the time
-    - Vertical video compares to a 9x completion rate compared to horizontal videos 
-    - 29% of videos on smartphone today are vertical videos vs 5% back in 2012
+- Smartphone users hold their phone vertically for about 94% of the time
+- Vertical video compares to a 9x completion rate compared to horizontal videos 
+- 29% of videos on smartphone today are vertical videos vs 5% back in 2012
 
 Designing the app in the natural smartphone usage orientation could be significant in retaining and engaging the users in the app. The ability to hold the phone with one hand is another significant advantage we see with a race goer. 
 
