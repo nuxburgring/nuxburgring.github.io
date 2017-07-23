@@ -99,7 +99,7 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 ### Images
 
-<img src="assets/Image 1.png" width="30%" style="padding-right: 15px" /> <img src="assets/Image 2.png" width="30%" style="padding-right: 15px" /> <img src="assets/Image 3.jpg" width="30%" style="padding-right: 15px" />
+<img src="assets/Image 1.png" width="30%" style="margin-right: 15px;" /> <img src="assets/Image 2.png" width="30%" style="margin-right: 15px;" /> <img src="assets/Image 3.jpg" width="30%" style="margin-right: 15px;" />
 
 
 **Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by [images 6 to 11](#images-6-to-11).
@@ -112,9 +112,9 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 #### Images 6 to 11
 
-<img src="assets/Image 6.png" width="30%" /> <img src="assets/Image 7.png" width="30%" /> <img src="assets/Image 8.png" width="30%" />
+<img src="assets/Image 6.png" width="30%" style="margin-right: 15px;" /> <img src="assets/Image 7.png" width="30%" style="margin-right: 15px;" /> <img src="assets/Image 8.png" width="30%" style="margin-right: 15px;" />
 
-<img src="assets/Image 9.png" width="30%" /> <img src="assets/Image 10.png" width="30%" /> <img src="assets/Image 11.png" width="30%" />
+<img src="assets/Image 9.png" width="30%" style="margin-right: 15px;" /> <img src="assets/Image 10.png" width="30%" style="margin-right: 15px;" /> <img src="assets/Image 11.png" width="30%" style="margin-right: 15px;" />
 
 
 #### Elements on the screens:
