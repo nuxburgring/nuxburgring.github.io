@@ -11,17 +11,19 @@ Trackeporter is a prototype android application designed for the round 2 submiss
 
 Demo Video URL: < insert link here> (add a line for GitHub repo link, another for direct link to APK file) – at 8PM
 
-This document talks about the following topics:
+---
 
-- Introduction + understanding of the problem
-- Designing the app
-    - UX
-    - Race footage
-    - UI
-- Our plan for the finals
-- Tech Stack
-- Interfacing the network with the app
-- Team Details 
+## Topics
+
+- [Introduction + understanding of the problem](#introduction-and-understanding-of-the-problem)
+- [Designing the app](#designing-the-app)
+    - [UX](#user-experience)
+    - [Race footage](#race-footage)
+    - [UI](#user-interface)
+- [Our plan for the finals](#our-plan-for-the-finals)
+- [Tech Stack](#tech-stack)
+- [Interfacing the network with the app](#interfacing-the-network-with-the-app)
+- [Team Details](#team)
 
 ---
 
