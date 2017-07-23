@@ -55,6 +55,8 @@ Another challenge with designing a smartphone app is to consider the smartphone 
 
 While putting down the structure and deciding the UX of the app, we’ve put ourselves in the shoes of a race goer and designed a light, seamless and easy to use application. We’ve taken some strong calls on the UX structure and elements to best suit a Formula E fan.
 
+<br/>
+
 **Vertical full screen video feed**:
 
 One of the early decisions we’ve made is to move away from the traditional landscape video viewing mode because it directly leads to bad user experience. The race goer will receive notifications, open and switch between multiple apps, make/ receive calls, often open up the camera to capture moments – all this along with watching the race. A landscape video viewing mode means that a user will be constantly changing his phone orientation from landscape to portrait and back. This is a huge red flag according to us leading to a bad experience. 
@@ -115,9 +117,9 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 <img src="assets/Image 1.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 2.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 3.jpg" width="30%" style="margin-right: 25px;" />
 
 <br/>
-
-
 **Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by [images 6 to 11](#images-6-to-11).
+
+<br/>
 
 
 <img src="assets/Image 4.jpeg" width="50%" style="margin-right: 25px;" /> <img src="assets/Image 5.jpeg" width="30%" style="margin-right: 25px;" />
@@ -125,6 +127,8 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 <br/>
 
 **Note**: Final screens below
+
+<br/>
 
 #### Images 6 to 8
 
