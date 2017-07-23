@@ -59,8 +59,8 @@ The app is designed with a fast and clean look sporting 4 screens (4 feeds) in a
 
 Providing a consolidated view (where a user has a choice of 4 feeds on a screen) will add to the complexity by having the user to navigate between individual camera feeds and consolidated view. To overcome this, we have designed a direct view with easy navigation. In other words,
 
-    - With direct view, 4 video feeds – view it in 4 steps
-    - With a consolidated view, 4 video feeds – view it in minimum of 8 steps
+- With direct view, 4 video feeds – view it in 4 steps
+- With a consolidated view, 4 video feeds – view it in minimum of 8 steps
 
 **Swipe and scroll**:
 
@@ -82,24 +82,24 @@ We have designed a very sporty and racey UI for the app and have improved the de
 
 We started with simple wireframes that you see on image 1 and designed its UI (image 2, 3) with image 3 as the final UI for round 1.
 
-![Image1](assets/Image\ 1.png)
-![Image2](assets/Image\ 2.png)
-![Image3](assets/Image\ 3.png)
+![Image1](assets/Image 1.png)
+![Image2](assets/Image 2.png)
+![Image3](assets/Image 3.png)
 
 On getting selected for round 2, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by images 6 – 11.
 
-![Image4](assets/Image\ 4.png)
-![Image5](assets/Image\ 5.png)
+![Image4](assets/Image 4.png)
+![Image5](assets/Image 5.png)
                    
 
 Final screens:
 
-![Image6](assets/Image\ 6.png)
-![Image7](assets/Image\ 7.png)
-![Image8](assets/Image\ 8.png)
-![Image9](assets/Image\ 9.png)
-![Image10](assets/Image\ 10.png)
-![Image11](assets/Image\ 11.png)
+![Image6](assets/Image 6.png)
+![Image7](assets/Image 7.png)
+![Image8](assets/Image 8.png)
+![Image9](assets/Image 9.png)
+![Image10](assets/Image 10.png)
+![Image11](assets/Image 11.png)
        
 
 **Elements on the screens**:
@@ -182,9 +182,9 @@ The feeds will be stored into a central venue controller system which interacts 
 
 We will implement APIs from three categories:
 
-    - MediaStream - allows the client (e.g., the web browser) to access the stream
-    - RTCPeerConnection - enable audio or video data transfer with bandwidth management
-    - RTCDataChannel - enables peer-to-peer communication for any generic data
+- MediaStream - allows the client (e.g., the web browser) to access the stream
+- RTCPeerConnection - enable audio or video data transfer with bandwidth management
+- RTCDataChannel - enables peer-to-peer communication for any generic data
 
 Note: For the scope of this prototype, we have not implemented the network and supporting integrations. For the finals, we can implement a proof of concept. 
 
@@ -198,20 +198,20 @@ We are three friends who studied together in college and worked on multiple proj
 
 Having picked up experience working with InMobi and Mu Sigma, Subramanian has always embraced his hacker spirit and built multiple tech projects both in college and post that too. He specialises in data analytics these days, but brings in solid ideation and problem solving skills, product development, front end development and a good design understanding as well.
 
-    - Winner, Sequoia Hack 2014
-    - World Finalist, University Mobile Challenge 2014, GSMA Mobile World Congress
-    - Winner, Snyxius App Idea Challenge
-    - Runner-up, ITU Young Innovators Refugee Challenge
+- Winner, Sequoia Hack 2014
+- World Finalist, University Mobile Challenge 2014, GSMA Mobile World Congress
+- Winner, Snyxius App Idea Challenge
+- Runner-up, ITU Young Innovators Refugee Challenge
 
 
 **Prashanth Reddy**
 
 Prashanth is the founder of StudyOwl & Developer Weekend, a sprawling community of tech influencers teaching children to code. He brings a strong tech background with him having developed over 4 Android and 7+ web apps over the last 4 years. He specialises in full stack and mobile development.
 
-    - Winner, Sequoia Hack 2014 
-    - World Finalist, University Mobile Challenge 2014, GSMA Mobile World Congress
-    - Winner, Snyxius App Idea Challenge
-    - Intuit – Txtweb developer of the year, 2014
+- Winner, Sequoia Hack 2014 
+- World Finalist, University Mobile Challenge 2014, GSMA Mobile World Congress
+- Winner, Snyxius App Idea Challenge
+- Intuit – Txtweb developer of the year, 2014
 
 
 **Sudhanshu Passi**
