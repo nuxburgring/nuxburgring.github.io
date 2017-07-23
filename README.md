@@ -1,6 +1,9 @@
 # Trackeporter
 
+<img src="assets/Logo.jpeg" width="120px">
+
 ## Team Name: nUXburgring
+
 ## Participating theme: UI/ UX challenge 2 – second screen viewing
 
 
