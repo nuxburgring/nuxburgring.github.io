@@ -67,7 +67,7 @@ Besides, vertical full screen video is highly engaging, and its adoption is expo
 
 Designing the app in the natural smartphone usage orientation could be significant in retaining and engaging the users in the app. The ability to hold the phone with one hand is another significant advantage we see with a race goer.
 
-<p></p>
+<br/>
 
 
 **Direct views**:
@@ -79,7 +79,7 @@ Providing a consolidated view (where a user has a choice of 4 feeds on a screen)
 - With direct view, 4 video feeds – view it in 4 steps
 - With a consolidated view, 4 video feeds – view it in minimum of 8 steps
 
-<p></p>
+<br/>
 
 **Swipe and scroll**:
 
@@ -114,7 +114,7 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 <img src="assets/Image 1.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 2.png" width="30%" style="margin-right: 25px;" /> <img src="assets/Image 3.jpg" width="30%" style="margin-right: 25px;" />
 
-<p></p>
+<br/>
 
 
 **Note**: On getting selected for the second round, we have rethought our design completely to up the ante. Image 4 is the new design mock-up and image 5 represents first version of the UI and the final screens represented by [images 6 to 11](#images-6-to-11).
@@ -122,7 +122,7 @@ We started with simple wireframes that you see on image 1 and designed its UI (i
 
 <img src="assets/Image 4.jpeg" width="50%" style="margin-right: 25px;" /> <img src="assets/Image 5.jpeg" width="30%" style="margin-right: 25px;" />
 
-<p></p>
+<br/>
 
 **Note**: Final screens below
 
@@ -193,8 +193,8 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 *Right*: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module.
 
-<p></p>
-<p></p>
+<br/>
+<br/>
 
 <img src="assets/leader.gif" style="margin-right: 33px;" />  <img src="assets/fan.gif" style="margin-right: 33px;" /> 
 
@@ -204,8 +204,8 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 *Right*: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
 
-<p></p>
-<p></p>
+<br/>
+<br/>
 
 ![teamradio](assets/teamradio.gif)
 
