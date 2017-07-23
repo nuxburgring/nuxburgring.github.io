@@ -99,7 +99,11 @@ Keeping in mind the amount of events happening on the race track, we’ve stuck 
 
 ### Race footage
 
-We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image on the right shows the race track divided into 3 sectors namely sector 1, sector 2 and sector 3. For the footage, we’ve taken the full video of the Monaco eprix 2017 from Youtube and edited to purpose with 2 things in mind – to remove most on-screen displays and to create an engaging 2 mins footage for every feed.
+We’ve chosen the 4 feeds as 3 sector views + 1 on-board cam view. The image below shows the race track divided into 3 sectors namely sector 1, sector 2 and sector 3.
+
+<img src="assets/Monaco-circuit-map.jpg" width="60%" style="margin-right: 25px;" />
+
+For the footage, we’ve taken the full video of the Monaco eprix 2017 from Youtube and edited to purpose with 2 things in mind – to remove most on-screen displays and to create an engaging 2 mins footage for every feed.
 
 <a href="https://drive.google.com/drive/folders/0B2o0eni3ZjlROVFTWU1CZngxTFk" target="_blank"><b>Click here to view the footages</b></a>
 
