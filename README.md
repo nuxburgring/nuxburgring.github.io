@@ -181,7 +181,7 @@ Click on the ‘Select driver’ on onboard detail view to view the driver’s o
 Keeping in mind the user’s involvement in the race and multiple uses of the smartphone, we’ve designed simple navigation gestures throughout the app. All the interactions in the app are illustrated here.
 
 
-<img src="assets/swich.gif" style="margin-right: 25px;" /> <img src="assets/sector.gif" style="margin-right: 25px;" /> <img src="assets/onswich.gif" style="margin-right: 25px;" />
+<img src="assets/swich.gif" style="margin-right: 33px;" /> <img src="assets/sector.gif" style="margin-right: 33px;" /> <img src="assets/onswich.gif" style="margin-right: 25px;" />
 
 **Comments**
 
@@ -189,15 +189,21 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 *Center*: Swipe up the sector screens to see the full leader board
 
-*Right*: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module. 
+*Right*: Swipe up the on-board screen to see more details about the driver and change the on-board feed to another driver. Note that for this prototype submission we have not implemented the change driver module.
 
-<img src="assets/leader.gif" style="margin-right: 25px;" />  <img src="assets/fan.gif" style="margin-right: 25px;" /> 
+<p></p>
+<p></p>
+
+<img src="assets/leader.gif" style="margin-right: 33px;" />  <img src="assets/fan.gif" style="margin-right: 33px;" /> 
 
 **Comments**
 
 *Left*: The position switch animation on the leader board screen. Note that for this prototype submission we have not implemented the leader board animation module.
 
 *Right*: The fan boost icon animates on the screen when a driver activates it. Note that for this prototype submission we have not implemented the fan boost module.
+
+<p></p>
+<p></p>
 
 ![teamradio](assets/teamradio.gif)
 
