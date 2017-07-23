@@ -217,6 +217,8 @@ Keeping in mind the user’s involvement in the race and multiple uses of the sm
 
 The profile picture of the driver animates on the on-board cam screen when there’s communication over team radio. On clicking the profile picture, a user can listen to the radio. Note that for this prototype submission we have not implemented the team radio module due to unavailability of separate team radio feeds.
 
+<br/>
+
 <small>[Go to top.](#topics)</small>
 
 ---
