@@ -7,9 +7,7 @@
 ## Participating theme: UI/ UX challenge 2 – second screen viewing
 
 
-Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands. 
-
----
+Trackeporter is a prototype android application designed for the round 2 submission of the `#UnitedByHCL` challenge. Taking on the problem statement, the app features 4 different camera feeds and aims to create a seamless, engaging and complete experience for the fans at the race stands.
 
 ## Demo Video
 
